@@ -10,5 +10,7 @@ git add content.txt
 git commit -m "merged his branch"
 git status
 
+git push -u origin main
+
 
 
