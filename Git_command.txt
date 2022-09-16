@@ -1,0 +1,14 @@
+git checkout my-branch
+git add .
+git commit -m "my changes"
+
+git merge his/branch
+git merge -abort
+
+git status
+git add content.txt
+git commit -m "merged his branch"
+git status
+
+
+
