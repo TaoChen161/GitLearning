@@ -1,1 +1,2 @@
 https://github.com/TaoChen161/GitLearning
+https://stackoverflow.com/questions/14961255/how-does-git-merge-work-in-details
