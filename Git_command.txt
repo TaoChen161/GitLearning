@@ -12,5 +12,7 @@ git status
 
 git push -u origin main
 
-
+Revert the last commit
+git reset --hard HEAD~1
+git push -f <remote> <branch>
 
